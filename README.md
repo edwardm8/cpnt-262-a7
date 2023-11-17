@@ -1,38 +1,20 @@
-# create-svelte
+# CPNT 262 Assignment 7 SkeleonUi layouts
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## By: Edward Mah
 
-## Creating a project
+## Site
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Search
+Mostly used documnetation search on the main skeletonui website.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+1. How to have a different layout for specific page 
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+[svelte different layout than main]-(https://stackoverflow.com/questions/72311812/how-to-make-a-unique-layout-for-the-main-page)
+important: "layout", "different","svelte"
 
-## Developing
+[site:svelte.dev different layout than main]-(https://kit.svelte.dev/docs/advanced-routing)
+important: 'site:svelte'
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Attributions
+[SkeletonUi](https://www.skeleton.dev/)
+[Tailwind](https://tailwindcss.com/)
