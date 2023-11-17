@@ -1,4 +1,4 @@
-<div class=" grid grid-col-2 gap-4 p-4">
+<div class=" grid grid-col-2 gap-4 p-4 bg-secondary-50-900-token">
   <a class="card flex flex-col m-auto justify-center items-center max-w-xl" href="https://www.thedesignwork.com/40-random-pictures-of-conceptual-and-creative-ideas/">
     <header class="card-header max-w-xl"><img class="aspect-[21/9]" src="./images/broc.jpg" alt="broccoli"></header>
     <section class="max-w-xl p-4">
